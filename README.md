@@ -39,7 +39,7 @@ Information provided:
 * Comparision between US and China on COVID-19 impact.
 
 
-![step 0](https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization/blob/main/global%20vaccination%20report%20tableau.png "title")
+![step 0](https://github.com/mahmudulrobin/Data-Exploration-Cleaning-Visualization-and-Correlation-using-Cloud-SQL-Tableau-and-Python/blob/main/global%20vaccination%20report%20tableau.png "title")
 
 ## Data Correlation using Python
 
