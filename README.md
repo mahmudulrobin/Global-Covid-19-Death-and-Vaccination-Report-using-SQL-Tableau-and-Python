@@ -1,4 +1,4 @@
-# Data Exploration, Cleaning, Visualization and Correlation
+# Global Covid-19 Death and Vaccination Report - Data Exploration, Cleaning, Visualization and Correlation
 
 ## Key Findings
 
